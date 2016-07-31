@@ -15,7 +15,7 @@
 
   "statusEffects" : [
     {
-      "stat" : "biomeradiationImmunity",
+      "stat" : "ffextremeradiationImmunity",
       "amount" : 1.0
     },
 	{

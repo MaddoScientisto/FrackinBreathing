@@ -41,7 +41,12 @@
     {
       "stat" : "biomecoldImmunity",
       "amount" : 1.0
-    }
+    },
+    {
+      "stat" : "breathProtection",
+      "amount" : 1.0
+    },
+    "xenonglow"
   ]
   
   
