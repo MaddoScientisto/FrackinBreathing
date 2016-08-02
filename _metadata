@@ -1,11 +1,11 @@
 {
   "author" : "Maddo",
-  "description" : "This mod adds breathing capabilities to the upgraded EPPs in Frackin Universe, specifically: Radiation EPP, Cold EPP, Heat EPP. \n\nThis version does not add a glow to the EPP. \n\nThis mod requires the steam version of Frackin Universe and is not compatible with the non-workshop version. \n\nLink to the non-workshop version of this mod: http://community.playstarbound.com/resources/frackin-epp-fix-no-light.3842/\n\nChangelog: \n\n1.3\n- Added breathing to the ultimate EPP (field generator)\n- Added extreme radiation resistance to regular radiation EPP",
+  "description" : "This mod adds breathing capabilities to the upgraded EPPs in Frackin Universe, specifically: Radiation EPP, Cold EPP, Heat EPP. \n\nThis version does not add a glow to the EPP. \n\nThis mod requires the steam version of Frackin Universe and is not compatible with the non-workshop version. \n\nLink to the non-workshop version of this mod: http://community.playstarbound.com/resources/frackin-epp-fix-no-light.3842/\n\nChangelog: \n\n1.4\n- Fixed radiation immunity for radiation EPP\n\n1.3\n- Added breathing to the ultimate EPP (field generator)\n- Added extreme radiation resistance to regular radiation EPP",
   "friendlyName" : "Frackin Breathing - add back breathing to EPP - No light edition",
   "includes" : [],
   "link" : "steam://url/CommunityFilePage/733624421",
   "name" : "eppfixNoLight",
   "requires" : ["FrackinUniverse"],
   "steamContentId" : "733624421",
-  "version" : "1.3"
+  "version" : "1.4"
 }
