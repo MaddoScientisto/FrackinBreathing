@@ -18,6 +18,10 @@
       "stat" : "ffextremeradiationImmunity",
       "amount" : 1.0
     },
+    {
+      "stat" : "biomeradiationImmunity",
+      "amount" : 1.0
+    },
 	{
       "stat" : "breathProtection",
       "amount" : 1.0
